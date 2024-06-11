@@ -1,49 +1,39 @@
-# Cloud Architect's GitHub Playground 🚀
+<h1 align="center"> 👋 Hi, I’m Vidit Khare 🙏</h1>
+<h3 align="center"> A cloud architect 👨‍💻 with specialization in multicloud, serverless and k8s technologies</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vidit-khare&label=Profile%20views&color=0e75b6&style=flat" alt="vidit-khare" /> </p>
+<h2 align="left"> About Me 👋</h2>
 
-👋 Hi, I’m @vidit-khare, welcome to my GitHub repository! As a cloud architect with hands-on experience in Azure and Google Cloud Platform (GCP), I'm excited to share my knowledge and insights. Whether you're a fellow architect, developer, or just curious about cloud technologies, you're in the right place.
 
-## Table of Contents
+I'm passionate about designing scalable and secure cloud solutions. With multiple certifications in both Azure and GCP, I've built everything from microservices architectures to data pipelines. When I'm not in the cloud, you'll find me experimenting with generative AI models and exploring the latest trends in data engineering.
 
-1. **About Me** 👋: A brief introduction to my background and expertise.
-2. **Projects** 🛠️: Explore my cloud-related projects, including architecture designs, scripts, and best practices.
-3. **Articles** 📝: Dive into my technical articles on cloud trends, AI, and data engineering.
-4. **Let's Connect!** 🌐: Let's stay in touch! Find me on LinkedIn, Twitter, or drop me an email.
+<h2 align="left">Let's Connect! 🤝</h2>
 
-## About Me 👋
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/vidit-khare/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/vidit.khare/)  &nbsp; <a href="mailto:vidit.khare.connect@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-I'm passionate about designing scalable and secure cloud solutions. With certifications in both Azure and GCP, I've built everything from microservices architectures to data pipelines. When I'm not in the cloud, you'll find me experimenting with generative AI models and exploring the latest trends in data engineering.
+<h2 align="left"> Articles 📝</h2>
 
-## Projects 🛠️
 
-Explore my cloud-related projects:
+<h2 align="left"> Projects 🤖</h2>
 
-### 1. **Azure Cloud** 🌟
+<h2 align="left">Languages and Tools 🛠️</h2>
 
-### 2. **GCP Cloud** 🌐
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/> &nbsp; &nbsp; &nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/> &nbsp; &nbsp; &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>&nbsp; &nbsp; &nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> &nbsp; &nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> &nbsp; &nbsp; &nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> &nbsp; &nbsp; &nbsp; 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> &nbsp; &nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>&nbsp; &nbsp; &nbsp; 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+</p>
 
-## Articles 📝
+<h2 align="left">GitHub Tracker 🕵️‍♂️🔍</h2>
 
-Explore my technical articles on cloud trends, AI, and data engineering:
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidit-khare&show_icons=true&locale=en" alt="vidit-khare" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidit-khare&" alt="vidit-khare" /> 
+</p>
 
-1. **"Demystifying Kubernetes: A Cloud Architect's Guide"** 🌍
-   - Dive into the essentials of Kubernetes and understand how it fits into modern cloud architectures.
-   - Read the article
-
-2. **"Serverless Architecture: Beyond Functions"** 🚀
-   - Explore event-driven serverless design patterns and discover their real-world applications.
-   - Read the article
-   - 
-## Let's Connect! 🌐
-
-Find me on:
-
-- **LinkedIn**: [Vidit Khare](https://www.linkedin.com/in/vidit-khare/)
-- **Medium**: [Vidit Khare](https://medium.com/@vidit-khare)
-- **Email**: vidit.khare.connect@gmail.com
-
-Let's collaborate and explore the tech cosmos together! 🚀🌟
-
-## Let's Collaborate! 🤝
-
-Feel free to fork, star, or contribute to any of my repositories. Together, we'll build better cloud solutions! 🌐🧠
 
