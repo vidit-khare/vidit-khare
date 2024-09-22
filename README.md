@@ -12,8 +12,20 @@ I'm passionate about designing scalable and secure cloud solutions. With multipl
 
 <h2 align="left"> Articles 📝</h2>
 
+[Deploying a Scalable Three-Tier App with Docker and Docker Compose](https://medium.com/@vidit-khare/deploying-a-scalable-three-tier-to-do-app-with-docker-and-docker-compose-18cfe6472adb) 
+
+[Apache Airflow: The ultimate workflow choreographer](https://medium.com/@vidit-khare/apache-airflow-the-ultimate-workflow-choreographer-ec1bcddc2ad1)
 
 <h2 align="left"> Projects 🤖</h2>
+
+<p>1. This project demonstrates how to build a Three Tier Architecture based application using Docker and hosting and scaling this using Docker Compose. </p>  
+
+[docker-deployment-todoapp](https://github.com/vidit-khare/docker-deployment-todoapp)
+
+<p>2. This project demonstrates how to deploy a Google Kubernetes Engine in a production ready manner using Terraform. It also demonstrates the usage of terraform modules and configuration for managing the codebase of different environments in Terraform. </p>  
+
+[terraform-gke-cluster-deployment](https://github.com/vidit-khare/terraform-gke-cluster-deployment)
+
 
 <h2 align="left">Languages and Tools 🛠️</h2>
 
